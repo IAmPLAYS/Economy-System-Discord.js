@@ -1,2 +1,4 @@
-# Economy-System-Discord.js
-You have problems with economy systems? Ok.. here I help you!
+# How To Use The Files?
+1. Create a new file: ```balance.json```
+
+Soon More...
